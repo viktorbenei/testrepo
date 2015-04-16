@@ -1,3 +1,3 @@
 test file
 
-fork test 2
+fork test 4/4
