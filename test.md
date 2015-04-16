@@ -8,14 +8,4 @@ another mod
 
 once again, commit on dev
 
-d1
-d2
-d3
-d4
-
-f1
-f2com
-d
-f3
-d
-1.0.7
+dev
