@@ -6,4 +6,4 @@ echo >> auto-test.txt
 
 git add auto-test.txt
 git commit -m 'auto-test'
-git push
+# git push
