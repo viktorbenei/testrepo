@@ -1,8 +1,4 @@
 testrepo
 ========
 
-test repo
-
-just a test
-
-another test
+webhook test
